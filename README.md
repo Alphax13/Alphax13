@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer | Web Enthusiast
 -----------------------------------
 
-🌟 Frontend Developer | Web Enthusiast 🎨 Crafting user-friendly interfaces with HTML, CSS, and JavaScript ⚛️ Building interactive web apps with React 🌐 Enhancing websites on WordPress 📜 Exploring scripting with Lua 💡 Passionate about creating responsive, visually appealing, and functional web solutions. Always eager to learn and grow in the ever-evolving world of web development!
+🌟 Frontend Developer | Web Enthusiast 
+🎨 Crafting user-friendly interfaces with HTML, CSS, and JavaScript 
+⚛️ Building interactive web apps with React 
+🌐 Enhancing websites on WordPress 
+📜 Exploring scripting with Lua 
+💡 Passionate about creating responsive, visually appealing, and functional web solutions. Always eager to learn and grow in the ever-evolving world of web development!
 
 *   🌍  I'm based in Thailand### Skills 
 <p align="left">
